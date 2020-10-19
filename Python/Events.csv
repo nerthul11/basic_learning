@@ -1,0 +1,1001 @@
+City,Corps,Attendants
+Sidney,Tesla,19388
+Dubai,Tesla,19722
+San Francisco,Google,10509
+Paris,Tesla,12312
+Berlin,Tesla,21026
+London,Apple,20793
+Buenos Aires,Amazon,18007
+Madrid,Apple,15714
+Lima,Tencent,23119
+Lima,Facebook,21207
+Madrid,Facebook,22177
+New York,Apple,12519
+San Francisco,Amazon,24049
+Buenos Aires,Apple,10030
+Paris,Tesla,21503
+Dubai,Google,14801
+Madrid,Amazon,18181
+Sidney,Facebook,24682
+San Francisco,Amazon,22483
+Madrid,Facebook,10067
+Toronto,Tesla,18244
+Tokyo,Apple,15598
+Sidney,Apple,16020
+Dubai,Facebook,22852
+Madrid,Apple,18540
+Tokyo,Facebook,18709
+Lima,Tesla,11293
+Dubai,Tesla,18815
+London,Amazon,21282
+Lima,Tencent,16763
+Toronto,Amazon,12945
+Lima,Amazon,15983
+New York,Apple,14980
+Toronto,Facebook,12203
+Beijing,Google,20088
+Tokyo,Apple,15745
+Toronto,Apple,23724
+Sidney,Tencent,10533
+New York,Facebook,17550
+Lima,Tesla,18383
+Toronto,Google,13186
+San Francisco,Facebook,21036
+Beijing,Google,17675
+Tokyo,Tencent,20638
+Tokyo,Tencent,18703
+Tokyo,Tesla,17629
+Dubai,Facebook,10327
+Toronto,Google,18543
+Buenos Aires,Apple,23145
+Beijing,Amazon,13834
+Dubai,Tesla,14332
+Dubai,Amazon,12517
+Tokyo,Tesla,20264
+Buenos Aires,Tesla,17905
+Berlin,Tencent,11668
+Lima,Google,12862
+New York,Facebook,12399
+Lima,Tesla,11820
+Madrid,Google,19379
+Toronto,Apple,21151
+Paris,Google,19447
+Berlin,Tesla,11774
+Dubai,Google,20812
+London,Facebook,24458
+Lima,Facebook,20298
+Lima,Google,21564
+London,Facebook,24568
+Buenos Aires,Google,13634
+Paris,Facebook,10979
+Berlin,Facebook,20555
+New York,Facebook,12948
+New York,Facebook,19391
+Paris,Amazon,22147
+Buenos Aires,Amazon,15993
+Sidney,Apple,20764
+Toronto,Facebook,15929
+Lima,Facebook,24659
+Beijing,Tencent,24948
+Madrid,Tesla,23636
+Tokyo,Tencent,18365
+Lima,Amazon,13699
+Beijing,Facebook,21203
+Toronto,Facebook,14033
+New York,Tesla,22628
+Beijing,Google,17024
+New York,Google,14541
+Sidney,Google,15657
+Sidney,Google,12220
+New York,Google,19078
+Berlin,Tencent,11921
+Sidney,Tencent,19033
+Toronto,Google,18560
+New York,Google,24576
+San Francisco,Amazon,21513
+Madrid,Apple,24637
+Buenos Aires,Apple,11055
+Buenos Aires,Tencent,16063
+Lima,Facebook,17469
+Tokyo,Google,10843
+Berlin,Tencent,20291
+Madrid,Facebook,18886
+Beijing,Apple,14686
+San Francisco,Tesla,14779
+Madrid,Facebook,18822
+Buenos Aires,Apple,22707
+Buenos Aires,Google,20709
+Toronto,Tesla,11609
+Beijing,Tesla,21481
+San Francisco,Tencent,17036
+Berlin,Facebook,23519
+Dubai,Amazon,10172
+Sidney,Facebook,24606
+San Francisco,Apple,22762
+San Francisco,Google,18976
+Paris,Google,14119
+Dubai,Apple,19541
+Madrid,Amazon,14889
+Paris,Tencent,19228
+Sidney,Apple,24786
+Buenos Aires,Tesla,10533
+Dubai,Amazon,11638
+Paris,Google,21071
+London,Tesla,16485
+New York,Google,21074
+Sidney,Google,24250
+Lima,Tencent,15397
+Paris,Tencent,15272
+Dubai,Tesla,22181
+Madrid,Tesla,21684
+Toronto,Google,19879
+Toronto,Apple,21929
+London,Facebook,14345
+Beijing,Tesla,14657
+Madrid,Apple,13203
+Beijing,Apple,20889
+Berlin,Apple,23236
+London,Google,16088
+Paris,Tesla,17317
+London,Amazon,16508
+Tokyo,Tesla,16767
+San Francisco,Amazon,22668
+Paris,Tesla,24274
+New York,Amazon,15024
+Tokyo,Google,18474
+New York,Apple,14555
+San Francisco,Amazon,24407
+Berlin,Facebook,24042
+Lima,Google,18718
+Tokyo,Tesla,13404
+Toronto,Tencent,17343
+Dubai,Facebook,18564
+Sidney,Tencent,11651
+Sidney,Tencent,18925
+Lima,Google,18866
+Madrid,Amazon,16696
+Madrid,Tesla,15914
+Sidney,Tencent,11851
+Madrid,Amazon,18877
+Toronto,Amazon,16938
+Buenos Aires,Amazon,11265
+San Francisco,Facebook,16222
+Lima,Apple,11471
+Beijing,Facebook,20055
+Beijing,Facebook,15049
+Buenos Aires,Apple,10008
+New York,Amazon,22231
+London,Apple,20906
+London,Facebook,20979
+Madrid,Tencent,12457
+Beijing,Amazon,22842
+New York,Tesla,18292
+New York,Tesla,24854
+Buenos Aires,Tesla,22161
+Dubai,Apple,21616
+Sidney,Google,17098
+Berlin,Google,16765
+Madrid,Tencent,15614
+Berlin,Amazon,20948
+Tokyo,Apple,15760
+Dubai,Facebook,14884
+Buenos Aires,Tesla,22763
+New York,Amazon,14113
+Lima,Tencent,17131
+Paris,Facebook,11977
+San Francisco,Amazon,15611
+Dubai,Tencent,14115
+Sidney,Amazon,18996
+Berlin,Tesla,21930
+Toronto,Tencent,20740
+Buenos Aires,Tencent,13739
+Buenos Aires,Amazon,22722
+Sidney,Apple,18549
+San Francisco,Apple,11702
+Tokyo,Facebook,19901
+Berlin,Apple,22980
+Lima,Amazon,23479
+London,Amazon,15922
+Lima,Tesla,14040
+San Francisco,Apple,18608
+Toronto,Tencent,15647
+Berlin,Amazon,20345
+Dubai,Amazon,10867
+Beijing,Amazon,12610
+Buenos Aires,Tencent,11611
+Berlin,Facebook,17401
+Paris,Apple,10403
+Berlin,Tencent,19873
+London,Google,20896
+Paris,Google,14316
+Paris,Apple,15725
+Lima,Tencent,21355
+Madrid,Facebook,20147
+San Francisco,Google,22235
+Madrid,Facebook,21667
+Sidney,Amazon,11353
+San Francisco,Tencent,16038
+Toronto,Google,19883
+London,Tencent,17102
+Buenos Aires,Amazon,13206
+Toronto,Amazon,14177
+New York,Tencent,16528
+New York,Tesla,11209
+Lima,Google,13834
+Toronto,Apple,18068
+San Francisco,Tesla,16187
+London,Facebook,15163
+Lima,Google,16641
+Beijing,Amazon,11974
+Buenos Aires,Facebook,15479
+Buenos Aires,Tesla,24942
+Tokyo,Facebook,16909
+Dubai,Google,12554
+Dubai,Tesla,24289
+Toronto,Google,24913
+Beijing,Amazon,11094
+Tokyo,Tencent,24068
+Madrid,Facebook,19453
+Toronto,Tesla,11806
+Tokyo,Facebook,21556
+London,Tesla,24196
+Toronto,Tencent,21334
+Lima,Amazon,17668
+Berlin,Tencent,11291
+Sidney,Facebook,10969
+Berlin,Google,23988
+Buenos Aires,Amazon,16349
+Paris,Tencent,17820
+Sidney,Amazon,18835
+Berlin,Facebook,17201
+Berlin,Tencent,20458
+Paris,Google,21249
+New York,Google,15533
+New York,Tesla,20186
+Tokyo,Apple,13436
+Paris,Facebook,15323
+Toronto,Google,24865
+Beijing,Amazon,16886
+Dubai,Facebook,10206
+San Francisco,Tencent,23750
+Beijing,Tesla,19874
+Dubai,Apple,11224
+Toronto,Google,19805
+London,Facebook,19526
+Paris,Facebook,12348
+London,Tencent,14114
+Lima,Facebook,20407
+Sidney,Tencent,18308
+Tokyo,Apple,11123
+Buenos Aires,Apple,14747
+Tokyo,Tesla,22660
+Toronto,Facebook,11777
+London,Google,10159
+Beijing,Google,17431
+Buenos Aires,Tesla,22670
+Madrid,Apple,18803
+Madrid,Tesla,13582
+Berlin,Tesla,14817
+Lima,Facebook,23783
+New York,Tesla,11059
+Toronto,Facebook,12803
+Madrid,Tencent,17203
+Tokyo,Facebook,14061
+Tokyo,Google,11789
+San Francisco,Amazon,24574
+London,Amazon,15994
+London,Tesla,16659
+Beijing,Google,17670
+Lima,Tesla,22678
+New York,Tesla,22334
+Tokyo,Google,10628
+Berlin,Amazon,18920
+Madrid,Tencent,20676
+Madrid,Amazon,12486
+San Francisco,Apple,16227
+Lima,Tencent,15477
+Sidney,Tencent,16522
+New York,Tesla,20501
+Toronto,Tesla,15166
+New York,Amazon,15445
+Tokyo,Amazon,10626
+Tokyo,Apple,12406
+Tokyo,Apple,12145
+Lima,Tencent,15114
+Sidney,Apple,20730
+Paris,Tesla,20653
+Tokyo,Apple,21663
+Paris,Google,21943
+Madrid,Facebook,16053
+Madrid,Google,14614
+San Francisco,Apple,16414
+San Francisco,Tencent,13244
+Tokyo,Tesla,17206
+Berlin,Facebook,14462
+Lima,Tencent,22125
+New York,Google,18921
+Beijing,Tesla,22680
+San Francisco,Google,21570
+San Francisco,Facebook,24867
+Buenos Aires,Google,17665
+Tokyo,Facebook,14252
+London,Facebook,16437
+Lima,Tesla,11082
+Madrid,Google,19255
+Sidney,Tesla,14414
+Buenos Aires,Apple,12343
+San Francisco,Facebook,19680
+San Francisco,Tesla,13950
+Tokyo,Amazon,21299
+Madrid,Facebook,22868
+Beijing,Apple,19607
+Toronto,Apple,22051
+San Francisco,Google,16942
+New York,Tencent,13182
+Sidney,Google,18424
+Tokyo,Amazon,13928
+Paris,Amazon,11825
+Sidney,Apple,15726
+Buenos Aires,Facebook,23820
+Dubai,Tencent,14962
+London,Facebook,12066
+Madrid,Facebook,17669
+Paris,Amazon,15251
+Paris,Amazon,24500
+London,Apple,12760
+Madrid,Apple,18524
+London,Apple,17980
+Berlin,Google,10258
+Tokyo,Google,16062
+Dubai,Tesla,17562
+Berlin,Facebook,22813
+Sidney,Amazon,16042
+New York,Tesla,18908
+Tokyo,Tencent,16778
+Dubai,Google,10039
+San Francisco,Tencent,15527
+New York,Tesla,13900
+Beijing,Tesla,20115
+New York,Apple,12596
+Beijing,Tencent,16935
+Buenos Aires,Amazon,18943
+Beijing,Amazon,16418
+Berlin,Tencent,18789
+San Francisco,Amazon,23084
+Tokyo,Google,21009
+Toronto,Apple,14472
+Toronto,Apple,18267
+Paris,Apple,17457
+Paris,Tesla,24434
+Buenos Aires,Tesla,18235
+Berlin,Amazon,11190
+Sidney,Tesla,11754
+Beijing,Google,16906
+San Francisco,Google,16723
+Tokyo,Facebook,12437
+Paris,Facebook,23858
+Beijing,Google,16726
+Dubai,Tencent,18990
+Tokyo,Apple,14411
+London,Amazon,16693
+Tokyo,Tesla,20080
+Tokyo,Google,14775
+Toronto,Tesla,15866
+Paris,Amazon,23984
+Berlin,Tesla,16642
+San Francisco,Amazon,23786
+Beijing,Tencent,10686
+Tokyo,Tesla,19263
+Dubai,Facebook,20081
+Lima,Google,12208
+Beijing,Tesla,10531
+Lima,Apple,18394
+Beijing,Facebook,20038
+Sidney,Facebook,14680
+Lima,Facebook,17199
+San Francisco,Tencent,19386
+Beijing,Tesla,13650
+Tokyo,Tesla,16715
+Dubai,Amazon,24020
+Beijing,Amazon,24934
+London,Facebook,13804
+Buenos Aires,Apple,20243
+Toronto,Amazon,18660
+Madrid,Tencent,19361
+Paris,Amazon,14090
+Tokyo,Amazon,19081
+Buenos Aires,Amazon,16573
+Sidney,Google,16615
+Paris,Apple,22320
+Toronto,Google,24036
+Berlin,Tencent,12834
+San Francisco,Facebook,18292
+Dubai,Amazon,18565
+New York,Facebook,20591
+Dubai,Tencent,22526
+Beijing,Facebook,12787
+London,Amazon,16168
+London,Amazon,20181
+Berlin,Tesla,23258
+Berlin,Apple,20360
+London,Amazon,18749
+Tokyo,Apple,11948
+Paris,Amazon,22247
+San Francisco,Tencent,14565
+London,Tencent,18406
+London,Google,11434
+New York,Amazon,14417
+Dubai,Tencent,15541
+Toronto,Google,23648
+Dubai,Tencent,16881
+New York,Apple,14554
+Lima,Google,24672
+Paris,Apple,17750
+London,Facebook,19475
+Madrid,Tesla,15669
+Buenos Aires,Google,21541
+Dubai,Apple,13013
+Buenos Aires,Tencent,12061
+Berlin,Tencent,15135
+London,Tencent,24876
+San Francisco,Amazon,21095
+Madrid,Amazon,15712
+Lima,Facebook,15678
+San Francisco,Tesla,13540
+Berlin,Apple,11381
+Sidney,Facebook,24023
+Berlin,Tesla,22638
+Berlin,Tencent,21995
+Berlin,Tesla,13758
+Paris,Amazon,14498
+Sidney,Tesla,18270
+Beijing,Amazon,14802
+Madrid,Google,10220
+Madrid,Amazon,10093
+Beijing,Facebook,15641
+Toronto,Facebook,19202
+Dubai,Facebook,24436
+San Francisco,Facebook,22865
+Dubai,Apple,11895
+Dubai,Facebook,20445
+Buenos Aires,Tencent,20096
+Berlin,Amazon,12144
+Paris,Amazon,22131
+Madrid,Tesla,19525
+Beijing,Google,14070
+London,Tencent,13331
+Lima,Tencent,24105
+Sidney,Tesla,12826
+London,Amazon,18734
+Lima,Apple,22634
+Sidney,Tesla,24653
+New York,Tesla,21517
+Paris,Amazon,24658
+San Francisco,Tesla,10519
+Paris,Tesla,11097
+New York,Google,22662
+Sidney,Tesla,23280
+San Francisco,Tesla,18788
+Toronto,Tencent,14712
+Sidney,Facebook,13566
+Madrid,Google,16088
+Beijing,Tesla,11406
+Tokyo,Amazon,14909
+Paris,Google,11703
+Madrid,Amazon,12116
+Berlin,Tesla,23099
+Berlin,Apple,24554
+Berlin,Facebook,16990
+Lima,Google,22331
+London,Tencent,13931
+Tokyo,Facebook,20286
+Tokyo,Tesla,21536
+Berlin,Facebook,20879
+New York,Apple,14768
+San Francisco,Facebook,16819
+Lima,Amazon,12181
+Paris,Tesla,10889
+Toronto,Tesla,24758
+Madrid,Tencent,10958
+Madrid,Tencent,21409
+Toronto,Tesla,10556
+Toronto,Facebook,15865
+Madrid,Tesla,17506
+Beijing,Tencent,24825
+Beijing,Tencent,11288
+Madrid,Tesla,13046
+New York,Amazon,24048
+Buenos Aires,Amazon,11017
+Madrid,Google,12922
+Tokyo,Amazon,13001
+Madrid,Apple,15349
+Tokyo,Tesla,18015
+Berlin,Amazon,22144
+Beijing,Google,18314
+Beijing,Facebook,24357
+Madrid,Amazon,10278
+Dubai,Facebook,24670
+Tokyo,Tesla,18137
+Dubai,Amazon,22586
+Berlin,Tencent,12110
+Toronto,Facebook,23594
+New York,Tesla,15817
+Toronto,Tencent,11976
+Berlin,Google,15383
+Sidney,Apple,17095
+Buenos Aires,Tencent,10013
+Paris,Amazon,22077
+Paris,Tesla,13150
+Buenos Aires,Tesla,18555
+Dubai,Tencent,18333
+Berlin,Tesla,13455
+Lima,Amazon,20521
+Lima,Apple,12185
+Dubai,Amazon,14787
+San Francisco,Tesla,15476
+Madrid,Amazon,17813
+Dubai,Tesla,22931
+Sidney,Google,21847
+New York,Apple,21443
+Lima,Apple,15322
+Berlin,Amazon,12737
+New York,Google,23166
+Paris,Tesla,16680
+Buenos Aires,Amazon,10728
+San Francisco,Amazon,24361
+New York,Facebook,12755
+New York,Tencent,19726
+Beijing,Google,16945
+Beijing,Google,11935
+Beijing,Apple,11115
+Paris,Facebook,23407
+Berlin,Facebook,19797
+Buenos Aires,Tesla,15452
+Dubai,Facebook,15074
+Beijing,Amazon,16256
+Madrid,Tencent,17315
+London,Tencent,17756
+Toronto,Apple,24178
+Paris,Apple,10394
+New York,Apple,22958
+Sidney,Google,21701
+Buenos Aires,Tesla,14324
+Madrid,Facebook,13203
+Beijing,Apple,16132
+Tokyo,Tencent,23366
+London,Facebook,22605
+Paris,Apple,14582
+Dubai,Apple,13247
+Tokyo,Facebook,24869
+Madrid,Apple,22311
+Toronto,Tencent,12836
+Toronto,Tencent,12683
+Buenos Aires,Tencent,19090
+Madrid,Tesla,14790
+Lima,Apple,21329
+San Francisco,Facebook,23338
+Sidney,Tencent,13400
+Madrid,Tencent,13176
+Beijing,Apple,17693
+Madrid,Tencent,15157
+Toronto,Tencent,10994
+Lima,Facebook,12295
+London,Facebook,21558
+Buenos Aires,Tencent,18239
+Madrid,Google,24234
+San Francisco,Tesla,19489
+New York,Tesla,22020
+Toronto,Tesla,11182
+Berlin,Apple,13605
+Madrid,Tencent,16619
+New York,Tesla,12862
+Sidney,Tesla,22574
+London,Facebook,19559
+Berlin,Facebook,20539
+New York,Tesla,14032
+New York,Facebook,19426
+Berlin,Tencent,13772
+Buenos Aires,Facebook,19980
+London,Google,11246
+Berlin,Facebook,24989
+London,Facebook,16643
+Sidney,Tencent,23233
+Dubai,Facebook,17508
+Paris,Tencent,19853
+Berlin,Amazon,10985
+San Francisco,Amazon,17068
+Sidney,Apple,20897
+Buenos Aires,Tesla,14967
+Sidney,Amazon,10157
+New York,Tencent,23061
+Lima,Apple,19318
+Berlin,Apple,19625
+Paris,Amazon,23756
+Beijing,Google,15129
+Berlin,Tesla,17162
+Sidney,Amazon,13705
+Beijing,Google,14826
+Lima,Google,12226
+Dubai,Tencent,13571
+Dubai,Tesla,17617
+Sidney,Apple,24505
+Toronto,Amazon,22286
+Paris,Tesla,24206
+Beijing,Google,14064
+Beijing,Tesla,15609
+Berlin,Amazon,23430
+Lima,Tesla,24156
+New York,Tencent,14662
+San Francisco,Apple,14608
+Tokyo,Apple,16745
+New York,Facebook,12081
+Beijing,Tencent,11998
+Lima,Tesla,14224
+San Francisco,Google,13357
+Tokyo,Facebook,22362
+Beijing,Tencent,22216
+Tokyo,Google,20797
+Beijing,Amazon,24772
+Lima,Amazon,15344
+London,Google,23527
+New York,Google,23738
+Paris,Amazon,16382
+Paris,Google,13878
+Tokyo,Amazon,22837
+Madrid,Tencent,19221
+Sidney,Tesla,18166
+London,Google,23706
+Tokyo,Google,12253
+Sidney,Tencent,13541
+Buenos Aires,Amazon,10008
+Tokyo,Tesla,23138
+Sidney,Facebook,22719
+London,Facebook,19418
+Berlin,Amazon,23893
+Buenos Aires,Facebook,17165
+Berlin,Google,22792
+Buenos Aires,Google,19590
+Berlin,Google,14610
+Buenos Aires,Tencent,13914
+Tokyo,Amazon,16934
+Paris,Tencent,15508
+Tokyo,Amazon,15109
+Toronto,Google,21790
+London,Amazon,10291
+Buenos Aires,Tesla,10397
+Paris,Tesla,15452
+Berlin,Tesla,10739
+Dubai,Tencent,12918
+Madrid,Facebook,16252
+Lima,Facebook,21754
+London,Google,24493
+Tokyo,Tesla,13524
+London,Tencent,14502
+Toronto,Tesla,11315
+San Francisco,Amazon,11780
+Dubai,Google,24254
+San Francisco,Tencent,23270
+New York,Google,13322
+Beijing,Amazon,12412
+Tokyo,Google,17803
+Sidney,Tesla,15200
+London,Tencent,13394
+Dubai,Google,19653
+Dubai,Google,24572
+Buenos Aires,Tesla,21387
+Berlin,Google,11168
+San Francisco,Google,18062
+Tokyo,Tencent,16877
+London,Facebook,16688
+Lima,Tesla,13513
+Beijing,Google,11172
+Tokyo,Facebook,13436
+Berlin,Amazon,20815
+San Francisco,Tencent,11669
+Sidney,Tesla,24215
+New York,Apple,21303
+Tokyo,Facebook,21118
+Sidney,Facebook,13001
+San Francisco,Tesla,19502
+Lima,Amazon,17722
+Toronto,Amazon,10435
+Tokyo,Apple,16825
+London,Tesla,19075
+San Francisco,Facebook,15700
+New York,Facebook,10849
+Berlin,Amazon,23939
+London,Amazon,13628
+New York,Tencent,16663
+Tokyo,Facebook,19070
+Dubai,Apple,10235
+Toronto,Tencent,10850
+London,Tencent,15945
+Beijing,Tesla,21133
+Toronto,Amazon,23897
+London,Amazon,12417
+Paris,Amazon,23211
+Sidney,Apple,23221
+New York,Google,22917
+Buenos Aires,Apple,21219
+Sidney,Amazon,23728
+New York,Apple,11884
+Berlin,Apple,16922
+Buenos Aires,Apple,17866
+Paris,Apple,11236
+Buenos Aires,Amazon,17146
+Beijing,Amazon,10608
+Dubai,Tesla,24197
+Paris,Tesla,13075
+Buenos Aires,Google,20557
+San Francisco,Facebook,11673
+Dubai,Facebook,13882
+Toronto,Google,15749
+Paris,Apple,12106
+Beijing,Facebook,22792
+Madrid,Tencent,14207
+Beijing,Tencent,16047
+London,Google,15768
+Madrid,Facebook,23340
+Toronto,Amazon,22271
+Sidney,Google,22391
+Berlin,Tesla,22153
+Sidney,Apple,11930
+Madrid,Amazon,18453
+Paris,Google,24069
+Madrid,Facebook,23554
+Toronto,Tencent,16153
+Tokyo,Apple,10607
+Madrid,Apple,23336
+Beijing,Google,23560
+San Francisco,Amazon,23204
+San Francisco,Apple,17284
+Dubai,Tencent,15182
+Sidney,Google,19337
+Madrid,Tencent,14797
+Tokyo,Amazon,16987
+Berlin,Google,24876
+Toronto,Tesla,11027
+Dubai,Amazon,20490
+Berlin,Amazon,10807
+Lima,Amazon,18590
+Tokyo,Facebook,20695
+Dubai,Tencent,21705
+Dubai,Tencent,14323
+Dubai,Tesla,10270
+San Francisco,Amazon,22800
+New York,Google,17566
+Buenos Aires,Facebook,21083
+Tokyo,Google,22684
+Dubai,Google,16104
+Berlin,Tencent,23390
+Berlin,Google,21781
+Berlin,Tesla,16775
+Tokyo,Amazon,23722
+Tokyo,Facebook,19264
+Buenos Aires,Tesla,20076
+Toronto,Google,11876
+Dubai,Apple,10027
+Paris,Facebook,13309
+Toronto,Apple,17634
+Paris,Apple,23683
+Paris,Facebook,20792
+San Francisco,Tencent,12538
+Madrid,Amazon,19646
+Toronto,Google,10171
+New York,Tesla,17407
+Paris,Tesla,18450
+San Francisco,Tencent,15314
+Lima,Apple,19250
+Tokyo,Facebook,15145
+London,Amazon,21888
+Paris,Apple,17702
+London,Tencent,15564
+New York,Facebook,16518
+Lima,Tesla,21163
+Beijing,Tesla,11038
+San Francisco,Google,18979
+Buenos Aires,Apple,19371
+Tokyo,Tesla,14334
+Tokyo,Tesla,18612
+Tokyo,Google,16873
+Sidney,Google,10039
+San Francisco,Tesla,20988
+Lima,Apple,18973
+Tokyo,Tesla,24409
+Toronto,Tesla,17668
+Toronto,Tencent,17124
+Lima,Facebook,13912
+Lima,Amazon,14938
+Toronto,Tencent,21168
+Paris,Facebook,19803
+Sidney,Tencent,21010
+London,Apple,19663
+Lima,Tencent,23624
+Sidney,Google,21686
+Beijing,Google,19355
+Lima,Amazon,14549
+London,Google,13835
+Buenos Aires,Amazon,20830
+San Francisco,Tesla,20537
+San Francisco,Tencent,21806
+New York,Google,16272
+London,Amazon,22197
+Berlin,Amazon,21160
+Toronto,Apple,12530
+Paris,Amazon,11784
+London,Tesla,12037
+Berlin,Tesla,18596
+Berlin,Amazon,15089
+London,Tencent,20013
+Lima,Google,15661
+San Francisco,Amazon,12145
+Paris,Apple,19161
+Toronto,Google,19442
+London,Tencent,12212
+Buenos Aires,Tencent,20900
+San Francisco,Facebook,14403
+London,Apple,11711
+Lima,Facebook,16492
+Sidney,Google,19471
+New York,Facebook,19176
+Berlin,Tencent,18448
+Buenos Aires,Apple,14719
+San Francisco,Apple,18720
+London,Tesla,16372
+Beijing,Apple,17113
+Berlin,Apple,15422
+Buenos Aires,Amazon,17272
+Paris,Tesla,17808
+San Francisco,Tencent,10181
+Sidney,Apple,23819
+San Francisco,Tencent,19861
+Sidney,Apple,15037
+Sidney,Tencent,13891
+Toronto,Apple,24910
+Beijing,Amazon,11093
+Toronto,Amazon,16347
+Madrid,Apple,15710
+Berlin,Google,23711
+Lima,Tesla,16914
+Madrid,Apple,18861
+Buenos Aires,Facebook,19177
+London,Facebook,15054
+London,Amazon,10426
+Dubai,Tencent,23418
+Madrid,Amazon,12587
+Toronto,Tencent,16106
+London,Amazon,11548
+San Francisco,Amazon,18781
+Toronto,Facebook,12149
+San Francisco,Google,13626
+Sidney,Amazon,16481
+Buenos Aires,Apple,20274
+London,Facebook,15668
+Berlin,Tencent,15299
+Tokyo,Facebook,20378
+Berlin,Apple,22321
+Tokyo,Tesla,10054
+Buenos Aires,Apple,23721
+Tokyo,Tencent,23589
+Toronto,Apple,14401
+Buenos Aires,Apple,12193
+Toronto,Tencent,22030
+Toronto,Facebook,24448
+Sidney,Facebook,10038
+Sidney,Tencent,24412
+Tokyo,Tesla,17215
+Lima,Apple,21224
+New York,Apple,22631
+Tokyo,Tesla,20496
+Berlin,Apple,14097
+London,Facebook,18603
+Tokyo,Tencent,16383
+Madrid,Tencent,11817
+Dubai,Google,19145
+Beijing,Facebook,13730
+Madrid,Amazon,18702
+Toronto,Amazon,13432
+Tokyo,Facebook,24005
+Dubai,Tesla,23072
+Dubai,Apple,21022
+Tokyo,Amazon,22088
+Beijing,Tesla,11729
+San Francisco,Google,14091
+Tokyo,Apple,17496
+Lima,Amazon,14122
+Tokyo,Amazon,18976
+Berlin,Tesla,11959
+San Francisco,Google,19391
+Paris,Apple,10043
+Tokyo,Google,10426
+Buenos Aires,Tesla,24753
+Tokyo,Apple,15921
+Tokyo,Amazon,16346
+Lima,Amazon,12225
+Sidney,Google,18505
+Beijing,Tencent,10436
+Paris,Amazon,20263
+Madrid,Amazon,20513
+London,Apple,15910
+Lima,Amazon,17876
+Dubai,Tencent,24253
+Lima,Facebook,23520
+Madrid,Amazon,17238
+Dubai,Tencent,19371
+Berlin,Apple,13718
+Tokyo,Facebook,17466
+New York,Google,22051
+Buenos Aires,Tesla,13769
+London,Apple,14836
+Tokyo,Google,24230
+Sidney,Apple,10568
+Buenos Aires,Apple,17187
+Buenos Aires,Tencent,18899
+Beijing,Tencent,10476
+Toronto,Amazon,20971
+Tokyo,Google,19296
+Lima,Amazon,23574
+London,Amazon,20809
+Dubai,Amazon,11441
+Buenos Aires,Apple,13829
+Berlin,Google,24158
+Buenos Aires,Tencent,14433
+Dubai,Apple,22843
+Beijing,Apple,10744
+Beijing,Apple,15395
+Dubai,Apple,24579
+Berlin,Tencent,12660
+London,Google,15423
+Berlin,Google,15723
+Tokyo,Google,19757
+London,Tencent,16754
+Dubai,Tencent,21262
+Lima,Amazon,23695
+Paris,Apple,13069
+Lima,Tencent,11706
+New York,Tencent,16694
+Sidney,Facebook,20033
+Tokyo,Facebook,19970
+London,Tencent,18340
+Lima,Facebook,17551
+Dubai,Facebook,19162
+Paris,Apple,11539
+San Francisco,Google,12278
+Paris,Apple,20364
+London,Facebook,18164
+Toronto,Tencent,11761
+Berlin,Tesla,14566
+San Francisco,Apple,23931
+Paris,Facebook,20460
+London,Apple,15728
+London,Tencent,20144
+San Francisco,Tencent,10206
+Beijing,Tencent,12218
+Lima,Google,20838
+Madrid,Facebook,21285
+Lima,Google,24162
+Dubai,Google,16496
+Dubai,Apple,15050
+London,Apple,12307
+Toronto,Google,16713
+Madrid,Tesla,24835
+Lima,Tencent,22983
+New York,Tencent,17701
+London,Amazon,20384
+Buenos Aires,Amazon,16613
+Dubai,Apple,14290
+Beijing,Google,10087
+Berlin,Tencent,19697
+Sidney,Google,23658
+San Francisco,Google,17114
+Sidney,Facebook,14161
+London,Apple,23943
+Toronto,Apple,14915
+London,Amazon,15261
+Paris,Google,21594
+London,Google,22319
+Dubai,Google,17975
+London,Amazon,16992
+Madrid,Google,18641
+Buenos Aires,Tesla,17113
+Toronto,Tencent,18459
