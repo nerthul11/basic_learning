@@ -3,17 +3,22 @@
 	<script>
 		// Ciclo while. En este ejemplo, va a poner en consola todos los números que hay hasta el 3.
 		console.log("While")
-		var n = 0;
+		var n = 0
 		while (n < 3) {
 			n ++;
 			console.log(n)
-		};
+		}
 		// Ejemplo de ciclo for:
 		console.log("For")
-		nombre = "Leandro"
+		for (var i = 1; i <= 3; i++) {
+			console.log(i)
+		}
+		// Ejemplo de for in:
+		console.log("For in")
+		var nombre = "Leandro"
 		for (letra in nombre) {
 			console.log(nombre[letra])
-		};
+		}
 		/*
 		Los ciclos while suelen usarse cuando no tenés la certeza de cuántas veces va a aplicarse, ya sea porque dependa del azar o de que el usuario haga
 		algo específico para romper el ciclo.

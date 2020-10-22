@@ -6,15 +6,15 @@
 		numerito = 50,
 		pi = 3.14,
 		bool = false;
-		list = ["Samsung", "Motorola", "Huawei", "Xiaomi"];
+		array = ["Samsung", "Motorola", "Huawei", "Xiaomi"];
 		object = {'nombre': 'Leandro', 'apellido': 'Rositto'};
 		// Qué pasa si sumo letras y números?
 		console.log(letritas + numerito);
 		// Cómo mostrar un mensaje que incluya el valor de una variable:
 		var doble = 2 * numerito;
 		console.log(`El doble de ${numerito} es ${doble}`);
-		// Cómo mostrar un elemento específico en una lista u objeto
-		console.log(list[1]) // Entre corchetes va la posición. Se empieza a contar desde el 0, así que un 1 ahí adentro es el segundo elemento (Motorola)
+		// Cómo mostrar un elemento específico en un array u objeto
+		console.log(array[1]) // Entre corchetes va la posición. Se empieza a contar desde el 0, así que un 1 ahí adentro es el segundo elemento (Motorola)
 		console.log(object['nombre']) // Los objetos no están ordenados secuencialmente, para buscar un valor específico hay que buscarlo por el nombre de su clave.
 	</script>
 	<title>Mi sitio web</title>
@@ -23,8 +23,7 @@
 	<p>Variables:</p>
 	<ul>
 		<li><strong>Str:</strong> Viene de string, que significa cadena. Almacenan texto.</li>
-		<li><strong>Int:</strong> Viene de integer, son todos los números enteros.</li>
-		<li><strong>Float:</strong> Son todos los números decimales.</li>
+		<li><strong>Number:</strong> Viene de integer, son todos los números.</li>
 		<li><strong>Boolean:</strong> Aplican binarismo a full, son true (1) o false (0).</li>
 		<li><strong>Array:</strong> Es un listado que a su vez está compuesto por elementos.</li>
 		<li><strong>Object:</strong> Están compuesto del modo {clave: valor}.</li>
