@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+	<title>A true or false table</title>
+	<style>
+	body {
+		background-color: #eeeeee
+	}
+	table {
+		border: 2px solid black;
+		border-collapse: collapse;
+		width: 50%;
+	}
+	th, td {
+		border: 1px solid black;
+		padding: 5px;
+	}
+	</style>
+</head>
+<body>
+	<table id="question_list"></table>
+	 <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+	<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+	<script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+	<script type="text/babel">
+	function answerCheck() {
+		return null
+		}
+
+	function Row({...props}) {
+		return (
+		<tr>
+		<td>{props.children}</td>
+		<td><input type="radio" name={props.name} onClick={answerCheck()} value="T" /></td>
+		<td><input type="radio" name={props.name} onClick={answerCheck()} value="F" /></td>
+		</tr>
+		)
+	}
+	
+	function Header() {
+		return (
+		<tr>
+			<th>Question</th>
+			<th>True</th>
+			<th>False</th>
+		</tr>
+		)
+	}
+		
+	const table = (
+	<>
+	<tbody>
+		<Header />
+		<Row name="question0">Sample question</Row>
+		<Row name="question1">Another question</Row>
+	</tbody>
+	</>
+	)
+	
+	ReactDOM.render(table, document.getElementById('question_list'))
+	</script>
+</table>
+</body>
