@@ -10,9 +10,9 @@
 	<script type="text/babel">
 
 	function BPMCalc() {
-		let [counter, setCounter] = React.useState(0)
-		let [startTime, setTimer] = React.useState(new Date())
-		let [bpm, setBpm] = React.useState(0)
+		let [counter, setCounter] = React.useState(() => 0)
+		let [startTime, setTimer] = React.useState(() => new Date())
+		let [bpm, setBpm] = React.useState(() => 0)
 		
 		function reset() {
 			counter = 0
