@@ -17,21 +17,39 @@
 	</style>
 </head>
 <body>
-	<table id="question_list"></table>
-	 <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+	<div id="root"></div>
+	<script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
 	<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
 	<script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
 	<script type="text/babel">
 	function answerCheck() {
-		return null
+		var table = document.getElementById('question_list')
+		var answered = 0
+		var inputs = document.getElementsByTagName('input')
+		for (let i=0; i<inputs.length; i++) {
+			if (inputs[i].checked) {
+				answered++
+			}
 		}
-
+		if (answered === table.rows.length - 1) {
+		var button = document.querySelector('button')
+		button.disabled = false
+		button.setAttribute('onclick','submitAnswer()')	
+		}
+	}
+	
+	function submitAnswer() {
+		const text = "You have clicked the submit button!"
+		console.log(Row)
+		ReactDOM.render(text, document.getElementById('root'))
+	}
+	
 	function Row({...props}) {
 		return (
 		<tr>
 		<td>{props.children}</td>
-		<td><input type="radio" name={props.name} onClick={answerCheck()} value="T" /></td>
-		<td><input type="radio" name={props.name} onClick={answerCheck()} value="F" /></td>
+		<td><input type="radio" name={props.name} onClick={answerCheck} value="T" /></td>
+		<td><input type="radio" name={props.name} onClick={answerCheck} value="F" /></td>
 		</tr>
 		)
 	}
@@ -46,17 +64,20 @@
 		)
 	}
 		
-	const table = (
+	const content = (
 	<>
+	<table id="question_list">
 	<tbody>
 		<Header />
 		<Row name="question0">Sample question</Row>
 		<Row name="question1">Another question</Row>
 	</tbody>
+	</table>
+	<button disabled>Submit answer</button>
 	</>
 	)
-	
-	ReactDOM.render(table, document.getElementById('question_list'))
+
+	ReactDOM.render(content, document.getElementById('root'))
 	</script>
 </table>
 </body>
