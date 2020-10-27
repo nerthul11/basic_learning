@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+	<title>BPM</title>
+</head>
+<body>
+	<div id="root"></div>
+	<script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+	<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+	<script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+	<script type="text/babel">
+
+	function BPMCalc() {
+		let [counter, setCounter] = React.useState(0)
+		let [startTime, setTimer] = React.useState(new Date())
+		let [bpm, setBpm] = React.useState(0)
+		
+		function reset() {
+			counter = 0
+			bpm = 0
+			setCounter(counter)
+			setBpm(bpm)
+			startTime = new Date()
+			setTimer(startTime)
+		}
+		
+		function add() {
+			counter = counter + 1
+			setCounter(counter)
+			let timer = Math.abs (new Date() - startTime)
+			if (counter%1 === 0) {
+				bpm = counter * 60000 / timer 
+				bpm = Math.floor(bpm)
+				setBpm(bpm)
+			}
+		}
+		
+		return (
+		<div>
+			<p>{counter}</p>
+			<button onClick={add}>Click!</button>
+			<button onClick={reset}>Reset counter</button>
+			<p>BPM: {bpm}</p>
+		</div>
+		)
+	}
+
+	ReactDOM.render(<BPMCalc />, document.getElementById('root'))
+	</script>
+</table>
+</body>
