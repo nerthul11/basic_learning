@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+	<title>Color Changer with custom hook</title>
+</head>
+<body>
+	<div id="root"></div>
+	<script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+	<script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+	<script src="https://unpkg.com/@babel/standalone@7.8.3/babel.js"></script>
+	<script type="text/babel">
+	function useColorState(key, defaultValue = '00') {
+		let [state, setState] = React.useState(
+		window.localStorage.getItem(key) || defaultValue)
+	
+		React.useEffect(() => {
+			Hex(state)
+			window.localStorage.setItem(key, state), [key, state]
+		})
+		
+		return [state, setState]
+	}
+	
+	function Hex(i) {
+		i = i > 255 ? 255 : i
+		return i = Number(i).toString(16).padStart(2,'0')
+		}
+	
+	function ColorChange() {
+				
+		let [red, setRed] = useColorState('red')
+		let [green, setGreen] = useColorState('green')
+		let [blue, setBlue] = useColorState('blue')
+
+		const changered = event => setRed(event.target.value)
+		const changegreen = event => setGreen(event.target.value)
+		const changeblue = event => setBlue(event.target.value)
+		const color = `#${Hex(red)}${Hex(green)}${Hex(blue)}`
+		
+		return (
+		<div>
+			<h1 style={{color: color}}>This sentence's color will change</h1>
+			<div>Select a color for the word in RGB values</div>
+			<label htmlFor="red">Red: </label>
+			<input type="number" value={red} onChange={changered} id="red" placeholder="Red" min="0" max="255" />
+			<label htmlFor="green">Green: </label>
+			<input type="number" value={green} onChange={changegreen} id="green" placeholder="Green" min="0" max="255" />
+			<label htmlFor="blue">Blue: </label>
+			<input type="number" value={blue} onChange={changeblue} id="blue" placeholder="Blue" min="0" max="255" />
+		</div>
+		)
+	}
+
+	ReactDOM.render(<ColorChange />, document.getElementById('root'))
+	</script>
+</table>
+</body>

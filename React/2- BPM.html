@@ -26,8 +26,11 @@
 		function add() {
 			counter = counter + 1
 			setCounter(counter)
+			if (counter === 1) {
+				startTime = new Date()
+			}
 			let timer = Math.abs (new Date() - startTime)
-			if (counter%1 === 0) {
+			if (counter%10 === 0) {
 				bpm = counter * 60000 / timer 
 				bpm = Math.floor(bpm)
 				setBpm(bpm)
