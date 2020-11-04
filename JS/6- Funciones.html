@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+	<script>
+		// Dentro del paréntesis va lo que se llaman parámetros, que es sobre los que la función va a operar. En este caso, al hacer la función siempre lo mismo, se deja en blanco.
+		function HolaMundo() {
+			console.log('Hola mundo')
+		}
+		
+		// Acá, la función lo que va a hacer es sumar dos números, por lo cual se requiere que se pasen como parámetros 2 números
+		function Sumar(num1,num2) {
+			return num1 + num2 // La palabra clave "return" lo que hace es devolver el usuario el resultado de una función
+		}
+		
+		var suma = Sumar(10,5)
+		console.log(suma)
+	</script>
+	<title>Mi sitio web</title>
+</head>
+<body>
+	<h1>Funciones:</h1>
+	<p>Una función es algo que realiza una operación específica una vez que se la llama. Se la puede llamar de múltiples formas, como por ejemplo apretando el siguiente botón:</p>
+	<button onclick="HolaMundo()">Apriétame!</button>
+</body>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+	<script>
+	function HolaMundo() {
+		document.querySelector('div').innerHTML = 'Hola mundo!'
+	}
+	</script>
+	<title>Mi sitio web</title>
+</head>
+<body>
+	<h1>Document Object Model:</h1>
+	<p>El DOM es lo que estructura el modo de presentación de un archivo HTML en el navegador. Un HTML tiene distintas etiquetas, este texto está escrito como "p"</p>
+	<h4>El titular es un "h1", lo cual significa que es un titular grande, que van achicándose hasta llegar al más chico que es "h6". Este está escrito en "h4".</h4>
+	<ul>
+		<li>Esta es un elemento dentro de una lista desordenada.</li>
+		<li>Este es otro elemento de la misma lista</li>
+	</ul>
+	<ol>
+		<li>Este es el primer elemento de una lista ordenada.</li>
+		<li>Acá hay otro.</li>
+	</ol>
+	<p>Abajo hay un elemento llamado "div", el cual está intencionalmente vacío, pero cuyo contenido va a cambiar al apretar el botón.</p>
+	<div></div>
+	<button onclick="HolaMundo()">Apriétame!</button>
+</body>
