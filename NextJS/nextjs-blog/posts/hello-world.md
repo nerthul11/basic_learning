@@ -1,6 +1,7 @@
 ---
 title: 'Hello world'
 date: '2020-11-02'
+author: 'Leandro Rositto'
 ---
 
 This page is pre-rendered.
