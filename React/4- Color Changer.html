@@ -22,6 +22,7 @@
 	
 	function Hex(i) {
 		i = i > 255 ? 255 : i
+		i = i < 0 ? 0 : i
 		return i = Number(i).toString(16).padStart(2,'0')
 		}
 	

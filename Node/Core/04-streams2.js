@@ -4,8 +4,7 @@ var stdin = process.stdin,
 
 function saveAge(age) {
     person.age = age
-    var underage = true
-    if (age >= 18) {underage = false}
+    age <= 18 ? underage = true : underage = false
     stdout.write(`Hello ${person.name}, your age is ${person.age}, so the fact that you are underage is ${underage}`)
     process.exit()
 }
